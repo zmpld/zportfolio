@@ -11,7 +11,14 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <ReactLenis root>
+    <ReactLenis
+      root
+      options={{
+        anchors: {
+          offset: -80,
+        },
+      }}
+    >
       <Header />
       <main>
         <Hero />
