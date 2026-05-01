@@ -80,7 +80,7 @@ body {
 }
 
 .navbar.active {
-  @apply opacity-100 visible blur-0 scale-100;
+  @apply opacity-100 scale-100 blur-0 visible;
 }
 
 .nav-link {

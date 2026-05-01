@@ -19,10 +19,11 @@ const About = () => {
         <h2 className="headline-2 mb-8">About Me</h2>
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-lg md:max-w-[60ch]">
-            Hey there! I&apos;m Z, an aspiring full-stack and software developer
-            focused on creating efficient, user-friendly web applications. I
-            combine creativity with technical expertise to turn ideas into
-            reliable, high-performing digital solutions.
+            Hey there! I&apos;m Alezandro Gian V. Mapalad, an aspiring
+            full-stack and software developer focused on creating efficient,
+            user-friendly web applications. I combine creativity with technical
+            expertise to turn ideas into reliable, high-performing digital
+            solutions.
             <br />
             <br />
             My journey into web development began during my studies at Mapúa

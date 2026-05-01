@@ -80,8 +80,8 @@ const Contact = () => {
         <div className="mb-12 lg:mb-0 lg:flex lg:flex-col">
           <h2 className="headline-2 lg:max-w-[12ch]">Contact Me</h2>
           <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lg:max-w-[30ch]">
-            Get in touch to discuss your project and start building something
-            great together.
+            Get in touch and let’s build something great together. Feel free to
+            drop me a message or say hi — I’d love to connect
           </p>
           <div className="flex items-center gap-2 mt-auto">
             {socialLinks.map(({ href, icon, alt }, key) => (
