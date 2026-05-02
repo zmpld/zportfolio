@@ -56,7 +56,12 @@ const Hero = () => {
               Turning Ideas Into Functional Web Applications
             </h2>
             <div className="flex items-center gap-3 mt-3">
-              <ButtonPrimary label="Download CV" icon="download" />
+              <ButtonPrimary
+                label="Download CV"
+                icon="download"
+                href="/assets/agvmapalad-mapua-resume.pdf"
+                download="agvmapalad-mapua-resume.pdf"
+              />
               <ButtonOutline
                 href="#projects"
                 label="Scroll down"

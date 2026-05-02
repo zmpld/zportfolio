@@ -17,7 +17,7 @@ const About = () => {
     <section id="about" className="section">
       <div className="container">
         <h2 className="headline-2 mb-8">About Me</h2>
-        <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
+        <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-lg md:max-w-[60ch]">
             Hey there! I&apos;m Alezandro Gian V. Mapalad, an aspiring
             full-stack and software developer focused on creating efficient,
